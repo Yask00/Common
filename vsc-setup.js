@@ -32,7 +32,7 @@
 // path intellisence
 // vscode-icons 
 
-    // for angular
+    // for ANGULAR
 // angular 2+ snippets
 // angular files
 // angular language service
